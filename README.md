@@ -5,11 +5,11 @@
 Este é um projeto simples e rapido, com o intuito de criar uma extenão .deeh para rodar em um programa de nome DeehLeh.exe
 
 ### Diretorio de arquivos não listados:
-Arquivos da extenção:
+Arquivos da [extenção](/extenção/extensão%20completa.reg):
 - Desktop/DeehLeh/DeehLeh.exe
 - Desktop/DeehLeh/deeh.ico
 
-Arquivos do menu de contexto:
-- Documents/projeto/projeto.bat
+Arquivos do [menu de contexto](/Listagem%20de%20Projeto):
+- [Documents/projeto/projeto.bat](/Listagem%20de%20Projeto/projeto.bat)
 
 **Obrigado pela sua atenção!**
