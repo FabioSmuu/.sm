@@ -5,7 +5,7 @@
 Este é um projeto simples e rapido, com o intuito de criar uma extenão .deeh para rodar em um programa de nome DeehLeh.exe
 
 ### Diretorio de arquivos não listados:
-Arquivos da [extensão](/extenção/extensão%20completa.reg):
+Arquivos da [extensão](/extensão/extensão%20completa.reg):
 - Desktop/DeehLeh/DeehLeh.exe
 - Desktop/DeehLeh/deeh.ico
 
