@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CLASSES_ROOT\SystemFileAssociations\.deeh\shell\DeehLeh]
-@="DeehLeh"
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.sm\shell\Smuu]
+@="Smuu"
 
-[HKEY_CLASSES_ROOT\SystemFileAssociations\.deeh\shell\DeehLeh\command]
-@="\"C:\\Users\\Smuu\\Desktop\\DeehLeh\\DeehLeh.exe\" \"%1\""
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.sm\shell\Smuu\command]
+@="\"C:\\Users\\Fabio\\Desktop\\Example\\Programa.exe\" \"%1\""
